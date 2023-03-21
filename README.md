@@ -13,12 +13,12 @@ Raissi, Maziar, and George Em Karniadakis. "Hidden Physics Models: Machine Learn
 Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learning of nonlinear partial differential equations." Journal of Computational Physics 357 (2018): 125-141.
 
 ## Code 
-- [Function](https://github.com/martacerri/honeybeHidden_Physics_Modelsehealth/tree/main/Function):
-- [My_Functions](https://github.com/martacerri/honeybeHidden_Physics_Modelsehealth/tree/main/My_Functions)
+- [Function](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Function):
+- [My_Functions](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_Functions)
   - `my_class.m`: 
   - `my_function.m`: 
-  - [Plots](https://github.com/martacerri/honeybeHidden_Physics_Modelsehealth/tree/main/My_Functions/Plots) :
-  - [Statistics](https://github.com/martacerri/honeybeHidden_Physics_Modelsehealth/tree/main/My_Functions/Statistics) : 
+  - [Plots](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_Functions/Plots) :
+  - [Statistics](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_Functions/Statistics) : 
 - `direct_prediction.m`:
 - `error_lessN.m` : 
 - `my_main.m` :
