@@ -6,3 +6,8 @@ For more details, please refer to the following: (https://maziarraissi.github.io
 Raissi, Maziar, and George Em Karniadakis. "Hidden Physics Models: Machine Learning of Nonlinear Partial Differential Equations." arXiv preprint arXiv:1708.00588 (2017).
 
 Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learning of nonlinear partial differential equations." Journal of Computational Physics 357 (2018): 125-141.
+
+# Authors
+- Marta Cerri ([@martacerri](https://www.github.com/martacerri))
+- Martina Ciancarelli ([@martinaciancarelli](https://www.github.com/martinaciancarelli))
+- Samuele Brunati ([@SamueleBrunati](https://www.github.com/SamueleBrunati))
