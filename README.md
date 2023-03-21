@@ -26,4 +26,4 @@ The presentation can be found in [Presentation](https://github.com/martacerri/Hi
 # Authors
 - Marta Cerri ([@martacerri](https://www.github.com/martacerri))
 - Martina Ciancarelli ([@martinaciancarelli](https://www.github.com/martinaciancarelli))
-- Samuele Brunati ([@SamueleBrunati](https://www.github.com/SamueleBrunati))
+- Samuele Brunati ([@samub11](https://www.github.com/samub11))
