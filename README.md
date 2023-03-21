@@ -25,7 +25,7 @@ Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learn
 - `set_test.m` :
 
 
-## Report and presentation
+## Presentation
 The presentation can be found in [Presentation](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Presentation) folder.
 
 # Authors
