@@ -14,11 +14,11 @@ Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learn
 
 ## Code 
 - [Function](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Functions):
-- [My_Functions](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_Functions)
+- [My_Functions](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions)
   - `my_class.m`: 
   - `my_function.m`: 
-  - [Plots](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_Functions/Plots) :
-  - [Statistics](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_Functions/Statistics) : 
+  - [Plots](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions/Plots) :
+  - [Statistics](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions/Statistics) : 
 - `direct_prediction.m`:
 - `error_lessN.m` : 
 - `my_main.m` :
