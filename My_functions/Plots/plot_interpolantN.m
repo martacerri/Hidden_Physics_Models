@@ -1,4 +1,4 @@
-function [] = plot_interpolantN(params)
+function [] = plot_interpolantN(params)                     % sistemare questa funzione...dipende solo da lambda1 così...
 
 N0 = params.N0;
 N1 = params.N1;

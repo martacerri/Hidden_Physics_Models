@@ -1,4 +1,4 @@
-function [] = plot_lambda(params)
+function [] = plot_lambda(params,testcase)
 
 N0 = params.N0;
 N1 = params.N1;
@@ -41,5 +41,15 @@ for i = 1:N
     plot(tn,lambda2(i,:),'ro');
     title(['Lambda2 (N0,N1)=(',num2str(N0(i)),',',num2str(N1(i)),')'],'Interpreter', 'tex','FontSize',15);
 end
+
+if strcmp(testcase,"ks")
+    lambda3 = params.lambda3;
+    
+    figure
+    for i = 1:N
+        subplot(NN + flag1, NN + flag2,i)
+        plot(tn,lambda3(i,:),'ro');
+        title(['Lambda3 (N0,N1)=(',num2str(N0(i)),',',num2str(N1(i)),')'],'Interpreter', 'tex','FontSize',15);
+    end
 
 end
