@@ -7,24 +7,29 @@ Raissi, Maziar, and George Em Karniadakis. "Hidden Physics Models: Machine Learn
 
 Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learning of nonlinear partial differential equations." Journal of Computational Physics 357 (2018): 125-141.
 
-## Code 
-- [Function](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Functions):
-- [My_Functions](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions)
-  - `my_class.m`: 
-  - `my_function.m`: 
-  - [Plots](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions/Plots) :
-  - [Statistics](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions/Statistics) : 
-- [Test_output](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Test_output):
-- `direct_prediction.m`:
-- `error_lessN.m` : 
-- `my_main.m` :
-- `set_test.m` :
+## Provided Code 
+- [Function](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Functions): contains the functions provided by the authors of the orginal work
+## Our implemented code
+- [My_Functions](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions): contains the functions that we wrote to answer our questions concerning      possible improvements and generalizations
+  - `my_class.m`: stucture of the class to store the outputs 
+  - `my_function.m`: takes as input data (file .mat) and the test case (label indicating the PDE considered) and returns a my_class object
+  - [Plots](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions/Plots) : contains auxiliar functions to display some plots
+  - [Statistics](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions/Statistics) : contains functions to perform some statistical analysis
+- `direct_prediction.m`: function that predicts the estimates of the parameters of the given equation
+- `error_lessN.m` : function that computes how the predictions get worse if we decrease the number of training data
+- `my_main.m` : main file
+- `set_test.m` : function that associates a tag to the physical equation
+  - Burgers <-- 1
+  - KdV <-- 2
+  - KS <-- 3
+  - Schrodinger <-- 4
+  - Navier-Stokes <-- 5
 
 
 ## Presentation
 The presentation can be found in [Presentation](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Presentation) folder.
 
-# Authors
+## Authors
 - Marta Cerri ([@martacerri](https://www.github.com/martacerri))
 - Martina Ciancarelli ([@martinaciancarelli](https://www.github.com/martinaciancarelli))
 - Samuele Brunati ([@samub11](https://www.github.com/samub11))
