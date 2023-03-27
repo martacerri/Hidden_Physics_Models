@@ -7,6 +7,10 @@ Raissi, Maziar, and George Em Karniadakis. "Hidden Physics Models: Machine Learn
 
 Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learning of nonlinear partial differential equations." Journal of Computational Physics 357 (2018): 125-141.
 
+## Brief Description
+Starting from the work and the code provided by the authors (Raissi, Maziar, and George Em Karniadaki), our goal was to critically inspect the results and then try to adress arising questions. 
+The code that we provide was meant just for our analysis so it is not commented in details. If you are interested, do not hesitate to contact us!
+
 ## Provided Code 
 - [Function](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Functions): contains the functions provided by the authors of the orginal work
 ## Our implemented code
@@ -24,6 +28,8 @@ Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learn
   - KS <-- 3
   - Schrodinger <-- 4
   - Navier-Stokes <-- 5
+ 
+ RMK: to generate new data it is necessary to dowload the Chebfun folder (https://www.chebfun.org/download/)
 
 
 ## Presentation
