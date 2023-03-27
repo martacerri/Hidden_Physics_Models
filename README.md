@@ -14,7 +14,7 @@ Raissi, Maziar, and George Em Karniadakis. "Hidden physics models: Machine learn
   - `my_function.m`: 
   - [Plots](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions/Plots) :
   - [Statistics](https://github.com/martacerri/Hidden_Physics_Models/tree/main/My_functions/Statistics) : 
-- [Test_output] (https://github.com/martacerri/Hidden_Physics_Models/tree/main/Test_output):
+- [Test_output](https://github.com/martacerri/Hidden_Physics_Models/tree/main/Test_output):
 - `direct_prediction.m`:
 - `error_lessN.m` : 
 - `my_main.m` :
